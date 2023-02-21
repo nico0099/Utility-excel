@@ -2,14 +2,15 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.nico0099</groupId>
-  <artifactId>Utility-excel</artifactId>
+  <groupId>org.deloitte</groupId>
+  <artifactId>utility</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-
+  <!--
   <name>utility</name>
-  <url>https://github.com/nico0099/Utility-excel</url>
+  <url>http://maven.apache.org</url>
+  -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <poi.version>5.2.2</poi.version>
