@@ -1,0 +1,5 @@
+org\deloitte\excel\GenericReaderSheet.class
+org\deloitte\App.class
+org\deloitte\excel\GenericWriterSheet.class
+org\deloitte\excel\NewClass.class
+org\deloitte\excel\GenericExcel.class
