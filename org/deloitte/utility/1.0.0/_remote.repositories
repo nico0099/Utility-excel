@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 22 14:23:35 CET 2023
-utility-1.0.0.jar>=
-utility-1.0.0.jar>github=
-utility-1.0.0.pom>=
-utility-1.0.0.pom>github=
